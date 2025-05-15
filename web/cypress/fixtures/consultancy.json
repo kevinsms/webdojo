@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "name": "Kevin Silva",
+    "email": "kevin.mss@teste.com.br",
+    "phone": "11999999999",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "87705527030",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/documento.pdf",
+    "techs": [
+      "Cypress",
+      "React",
+      "Node.js",
+      "JavaScript",
+      "Python",
+      "Java"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Kevin Silva",
+    "email": "kevin.mss@teste.com.br",
+    "phone": "11999999999",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "32581636000160",
+    "discoveryChannels": [
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/documento.pdf",
+    "techs": [
+      "Cypress"
+    ],
+    "terms": true
+  }
+}
