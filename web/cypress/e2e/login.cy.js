@@ -1,7 +1,7 @@
 import { getTodayFormattedDate } from '../support/utils'
 
 describe('Login', () => {
-  it.only('Deve Logar com sucesso', () => {
+  it('Deve Logar com sucesso', () => {
     cy.start()
     cy.submitLoginForm('papito@webdojo.com', 'katana123')
 
